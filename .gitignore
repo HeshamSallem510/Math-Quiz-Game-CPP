@@ -1,0 +1,35 @@
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled binaries
+
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+
+# Code analysis / temporary files
+
+*.cache
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
